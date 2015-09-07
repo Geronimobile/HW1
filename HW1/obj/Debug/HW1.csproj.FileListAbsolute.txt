@@ -1,0 +1,6 @@
+c:\users\jonathan\documents\visual studio 2013\Projects\HW1\HW1\bin\HW1.dll.config
+c:\users\jonathan\documents\visual studio 2013\Projects\HW1\HW1\bin\HW1.dll
+c:\users\jonathan\documents\visual studio 2013\Projects\HW1\HW1\bin\HW1.pdb
+c:\users\jonathan\documents\visual studio 2013\Projects\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2013\Projects\HW1\HW1\obj\Debug\HW1.dll
+c:\users\jonathan\documents\visual studio 2013\Projects\HW1\HW1\obj\Debug\HW1.pdb
